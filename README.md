@@ -11,9 +11,7 @@ Desde pequeno sou apaixonado por computadores e videogames 🎮💻 — o que de
 ## 🧠 Certificações
 
 - **Imersão Dev com Google Gemini – Alura & Google**  
-  Participação em evento focado em desenvolvimento com IA generativa.  
-  Carga horária: 4 horas | Concluído em 23/04/2025  
-  ![Certificado](https://github.com/seuusuario/seurepositorio/blob/main/imagens/certificado-google-gemini.png)
+![Certificado](https://github.com/babermann/portfolio/blob/main/certificados/certificado-google-gemini.png?raw=true)
 
 ---
 
