@@ -10,8 +10,7 @@ Desde pequeno sou apaixonado por computadores e videogames 🎮💻 — o que de
 
 ## 🧠 Certificações
 
-- **Imersão Dev com Google Gemini – Alura & Google**  
-![Certificado](https://github.com/BABERMANN/BABERMANN/blob/main/certificados/certificado-google-gemini.png.pdf?raw=true)
+**[Imersão Dev com Google Gemini – Alura & Google](https://github.com/BABERMANN/BABERMANN/blob/main/certificados/certificado-google-gemini.png?raw=true)**
 
 ---
 
