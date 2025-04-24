@@ -43,8 +43,8 @@ Fique de olho nos meus repositórios! 😄
 
 ## 📫 Contato
 
-- ✉️ Email: **seuemail@email.com**  
-- 🔗 LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)
+- ✉️ Email: **cauahabermann7@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/cauã-habermann](https://www.linkedin.com/in/cauã-habermann/)
 
 ---
 
