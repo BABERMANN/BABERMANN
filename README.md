@@ -1,19 +1,21 @@
 # 👨‍💻 Cauã Habermann Pereira
 
-**Estudante de Análise e Desenvolvimento de Sistemas | IFSP São Carlos**
+**Student of Systems Analysis and Development | IFSP São Carlos**
 
-Me chamo **Cauã Matheus Habermann Pereira**, tenho 20 anos e sou natural de Limeira-SP.  
-Atualmente moro em **São Carlos-SP**, onde curso **Análise e Desenvolvimento de Sistemas** no IFSP.  
-Desde pequeno sou apaixonado por computadores e videogames 🎮💻 — o que despertou meu interesse por programação e tecnologia.
+Hi! My name is **Cauã Matheus Habermann Pereira**, I'm 20 years old and originally from Limeira-SP, Brazil.  
+I currently live in **São Carlos-SP**, where I study **Systems Analysis and Development** at IFSP.  
+I've been passionate about computers and video games 🎮💻 since I was a kid — which sparked my love for programming and technology.
 
 ---
 
-## 🏅 Certificações
+## 🏅 Certifications
 
-- **Imersão Dev com Google Gemini – Alura & Google**  
-  [📄 Certificado](https://github.com/BABERMANN/BABERMANN/blob/main/certificados/certificado-google-gemini.png-1.png?raw=true)
+- **Dev Immersion with Google Gemini – Alura & Google**  
+  [📄 Certificate](https://github.com/BABERMANN/BABERMANN/blob/main/certificados/certificado-google-gemini.png-1.png?raw=true)
 
-## 💻 Tecnologias que estou aprendendo
+---
+
+## 💻 Technologies I'm learning
 
 <div style="display: flex; gap: 5px;">
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -23,32 +25,31 @@ Desde pequeno sou apaixonado por computadores e videogames 🎮💻 — o que de
 
 ---
 
-## 🚀 Projetos em desenvolvimento
+## 🚀 Projects in progress
 
-> Em breve você vai ver aqui projetos práticos em Python, HTML e CSS!
+> Soon you'll find here practical projects in Python, HTML and CSS!
 
-- 🔐 **Gerador de Senhas (Python)**
-- 🛒 **Web Scraper de Produtos**
-- 📝 **To-Do List com Tkinter ou Flask**
+- 🔐 **Password Generator (Python)**
+- 🛒 **Product Web Scraper**
+- 📝 **To-Do List with Tkinter or Flask**
 
-Fique de olho nos meus repositórios! 😄
+Stay tuned for more repositories! 😄
 
 ---
 
 ## 📊 GitHub Stats
 
-<img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=babermann&show_icons=true&theme=tokyonight&locale=pt-br" />
+<img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=babermann&show_icons=true&theme=tokyonight&locale=en" />
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ Email: **cauahabermann7@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/cauã-habermann](https://www.linkedin.com/in/cauã-habermann/)
 
 ---
 
-> 💡 *Buscando minha primeira oportunidade de estágio na área de tecnologia!*
-  />
+> 💡 *Looking for my first internship opportunity in the tech field!*
 
   
