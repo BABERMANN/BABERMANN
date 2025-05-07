@@ -15,25 +15,13 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 
 ---
 
-## 💻 Technologies I'm learning
+## 💻 Technologies 
 
 <div style="display: flex; gap: 5px;">
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
-
----
-
-## 🚀 Projects in progress
-
-> Soon you'll find here practical projects in Python, HTML and CSS!
-
-- 🔐 **Password Generator (Python)**
-- 🛒 **Product Web Scraper**
-- 📝 **To-Do List with Tkinter or Flask**
-
-Stay tuned for more repositories! 😄
 
 ---
 
