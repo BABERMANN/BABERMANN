@@ -8,13 +8,6 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 
 ---
 
-## 🏅 Certifications
-
-- **Dev Immersion with Google Gemini – Alura & Google**  
-  [📄 Certificate](https://github.com/BABERMANN/BABERMANN/blob/main/certificados/certificado-google-gemini.png-1.png?raw=true)
-
----
-
 ## 💻 Technologies 
 
 <div style="display: flex; gap: 5px;">
