@@ -15,7 +15,7 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 ### 💻 Technologies
 
 <div style="display: inline_block">
-  <a href="https://github.com/BABERMANN/Learning-Path/tree/main/python-Programming">
+  <a href="https://github.com/BABERMANN/Learning-Path/tree/main/python-programming">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 
