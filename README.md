@@ -38,25 +38,9 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 ---
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BABERMANN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[Cauã Habermann Stats](https://github-readme-stats.vercel.app/api?username=babermann&theme=dracula&show_icons=true&hide_border=false&count_private=false)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABERMANN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 ---
-
 ### 📫 Contact
 
 * ✉️ **Email:** cauahabermann7@gmail.com
