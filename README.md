@@ -35,12 +35,11 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
   Algorithm implementations and studies on memory management and data structures using C language.
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=babermann&show_icons=true&theme=tokyonight&locale=en" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babermann&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BABERMANN&show_icons=true&theme=tokyonight&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABERMANN&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ---
