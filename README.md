@@ -32,7 +32,7 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 * **[Python Programs (Learning Path)](https://github.com/BABERMANN/Learning-Path/tree/main/Python-Programs)**
   My collection of practical exercises to master the Python language.
   
-* **[C Programs (Data Structures)](https://github.com/BABERMANN/Learning-Path/tree/main/C-Programs)**
+* **[C Programs (Learning Path)](https://github.com/BABERMANN/Learning-Path/tree/main/C-Programs)**
   Algorithm implementations and studies on memory management and data structures using C language.
 
 ---
