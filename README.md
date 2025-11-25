@@ -19,7 +19,7 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 
-  <a href="https://github.com/BABERMANN/Learning-Path/tree/main/c-programming">
+  <a href="https://github.com/BABERMANN/Learning-Path/tree/main/c- programming">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </a>
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -30,7 +30,7 @@ I've been passionate about computers and video games 🎮💻 since I was a kid 
 ### 📂 Featured Projects
 
 * **[Python Programs (Learning Path)](https://github.com/BABERMANN/Learning-Path/tree/main/Python-Programs)**
-  My collection of scripts, automations, and practical exercises to master the Python language.
+  My collection of practical exercises to master the Python language.
 * **[C Programs (Data Structures)](https://github.com/BABERMANN/Learning-Path/tree/main/C-Programs)**
   Algorithm implementations and studies on memory management and data structures using C language.
 
