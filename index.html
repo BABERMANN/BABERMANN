@@ -59,6 +59,12 @@
             padding: 3rem 1rem;
             max-width: 800px;
             margin: 0 auto;
+            text-align: left;
+        }
+
+        .section h2 {
+            text-align: center; 
+            margin-bottom: 1.5rem;
         }
 
         .grid {
@@ -93,6 +99,28 @@
             text-decoration: none;
             color: inherit;
         }
+        
+        .skills-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .skill-category h3 {
+            color: var(--text-color);
+            font-size: 1.1rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .badges-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .badges-list img {
+            border-radius: 4px;
+        }
 
         footer {
             margin-top: 3rem;
@@ -100,6 +128,7 @@
             border-top: 1px solid var(--border-color);
             color: #8b949e;
             font-size: 0.9rem;
+            text-align: center;
         }
     </style>
 </head>
@@ -114,8 +143,43 @@
     <section class="section">
         <h2>👋 Sobre Mim</h2>
         <p>
-            Olá! Tenho 20 anos e tualmente estudo no IFSP São Carlos e estou focado em aprender 
+            Olá! Tenho 20 anos e atualmente estudo Análise e Desenvolvimento de Sistemas no IFSP São Carlos. Sou membro do grupo PET ADS, onde atuo como Desenvolvedor Front-end na ferramenta <strong>StArt (State of the Art through Systematic Review)</strong>. 
         </p>
+        <p>
+            O StArt é uma plataforma computacional desenvolvida para auxiliar pesquisadores na condução de Revisões Sistemáticas da Literatura (SR). Como a técnica de revisão exige etapas formais, trabalhosas e repetitivas, a ferramenta dá suporte a todo o processo, melhorando a qualidade e a agilidade da pesquisa, sendo amplamente reconhecida e utilizada no meio acadêmico.
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>🛠️ Habilidades & Ferramentas</h2>
+        <div class="skills-container">
+            <div class="skill-category">
+                <h3>Front-end</h3>
+                <div class="badges-list">
+                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+                    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+                    <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI">
+                </div>
+            </div>
+            
+            <div class="skill-category">
+                <h3>Back-end & Linguagens em estudo</h3>
+                <div class="badges-list">
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+                    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+                </div>
+            </div>
+
+            <div class="skill-category">
+                <h3>Gestão & Colaboração</h3>
+                <div class="badges-list">
+                    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                </div>
+            </div>
+        </div>
     </section>
 
     <section class="section">
