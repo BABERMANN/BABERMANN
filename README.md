@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-Hi! My name is **Cauã Matheus Habermann Pereira**, I'm 20 years old and originally from Limeira-SP, Brazil.
+Hi! My name is **Cauã Matheus Habermann Pereira**, I'm 21 years old and originally from Limeira-SP, Brazil.
 I currently live in **São Carlos-SP**, where I study **Systems Analysis and Development** at IFSP.
 I've been passionate about computers and video games 🎮💻 since I was a kid — which sparked my love for programming and technology.
 
